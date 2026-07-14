@@ -1,3 +1,8 @@
+> [!WARNING]
+> **Archived legacy fork:** This fork is no longer maintained. It is preserved for
+> historical reference and is read-only. Do not use it for new projects; use it
+> at your own risk.
+
 # Ethereum Ruby library - Ethereum.rb
 
 [![Build Status](https://travis-ci.org/EthWorks/ethereum.rb.svg?branch=master)](https://travis-ci.org/EthWorks/ethereum.rb) [![security](https://hakiri.io/github/NullVoxPopuli/MetaHash/master.svg)](https://hakiri.io/github/NullVoxPopuli/MetaHash/master) [![Dependency Status](https://gemnasium.com/marekkirejczyk/ethereum.rb.svg)](https://gemnasium.com/marekkirejczyk/ethereum.rb) [![Code Climate](https://codeclimate.com/github/marekkirejczyk/ethereum.rb/badges/gpa.svg)](https://codeclimate.com/github/marekkirejczyk/ethereum.rb)
